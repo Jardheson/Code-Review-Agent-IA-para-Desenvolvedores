@@ -1,4 +1,4 @@
-# Code Review Agent — IA para Desenvolvedores [T2]
+# Code Review Agent — IA para Desenvolvedores
 
 > **Projeto Avaliativo — Módulo 2 — Semana 12 (Situação de Aprendizagem)**
 > Atualizado: 14/08/2026 | Versão: 1.0.0 | Linguagem: TypeScript/Node 20
